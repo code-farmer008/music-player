@@ -1,2 +1,29 @@
-# music-player
-仿QQ音乐播放器，前端用 vue2.5，后端koa2，数据库mongdb，登录采用token，登录后可以播放音乐，音乐播放记录，添加收藏记录，搜素记录，存储在数据库中，不同用户分别展示属于自己的操作记录。
+# myproject
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
