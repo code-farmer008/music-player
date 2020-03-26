@@ -2,7 +2,7 @@
   <transition name="slide">
     <div class="add-song" v-show="showFlag" @click.stop>
       <div class="header">
-        <h1 class="title">添加歌曲到列表</h1>
+        <h1 class="title">添加歌曲到列表222</h1>
         <div class="close" @click="hide">
           <i class="icon-close"></i>
         </div>
